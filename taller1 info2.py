@@ -39,3 +39,4 @@ class ImplanteMedico:
 
     def set_estado(self, estado):
         self.__estado = estado
+        
